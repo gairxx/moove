@@ -1,0 +1,82 @@
+{
+  "watchlist": [
+    {
+      "mediaId": "solaris-odyssey",
+      "title": "Solaris Odyssey",
+      "type": "series",
+      "genres": [
+        "Sci-Fi",
+        "Drama",
+        "Mystery"
+      ],
+      "platform": "Open Cinema",
+      "posterUrl": "/src/assets/images/poster_orbital_drift_1795043578495.jpg",
+      "year": 2026,
+      "addedAt": "2026-11-10T18:00:00.000Z",
+      "notifyNewReleases": true,
+      "latestKnownDate": "2026-11-12"
+    },
+    {
+      "mediaId": "ancient-canopy",
+      "title": "Ancient Canopy",
+      "type": "series",
+      "genres": [
+        "Documentary",
+        "Nature"
+      ],
+      "platform": "Apple TV+",
+      "posterUrl": "/src/assets/images/poster_ancient_canopy_1795043579006.jpg",
+      "year": 2026,
+      "addedAt": "2026-11-11T14:30:00.000Z",
+      "notifyNewReleases": true,
+      "latestKnownDate": "2026-11-15"
+    }
+  ],
+  "history": [
+    {
+      "mediaId": "orbital-drift",
+      "title": "Orbital Drift",
+      "genres": [
+        "Sci-Fi",
+        "Adventure",
+        "Thriller"
+      ],
+      "platform": "Open Cinema",
+      "posterUrl": "/src/assets/images/poster_orbital_drift_1795043578495.jpg",
+      "progressSeconds": 1840,
+      "durationSeconds": 7080,
+      "completed": false,
+      "lastWatchedAt": "2026-11-17T21:15:00.000Z"
+    }
+  ],
+  "preferredGenres": [
+    "Sci-Fi",
+    "Thriller",
+    "Documentary"
+  ],
+  "notifications": [
+    {
+      "id": "notif-solaris-s1e3",
+      "mediaId": "solaris-odyssey",
+      "title": "Solaris Odyssey",
+      "platform": "Open Cinema",
+      "posterUrl": "/src/assets/images/poster_orbital_drift_1795043578495.jpg",
+      "headline": "New Episode Available: S1 E3 · Ring Horizon",
+      "detail": "Released Nov 12 · Ready to play instantly",
+      "releaseDate": "2026-11-12",
+      "read": false
+    },
+    {
+      "id": "notif-canopy-s1e2",
+      "mediaId": "ancient-canopy",
+      "title": "Ancient Canopy",
+      "platform": "Apple TV+",
+      "posterUrl": "/src/assets/images/poster_ancient_canopy_1795043579006.jpg",
+      "headline": "New Episode Available: S1 E2 · The Crown Architecture",
+      "detail": "Released Nov 15 · Ready to play instantly",
+      "releaseDate": "2026-11-15",
+      "read": false
+    }
+  ],
+  "addons": []
+}

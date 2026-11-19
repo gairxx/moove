@@ -1,0 +1,6 @@
+{
+  "name": "KinoStream",
+  "description": "Unified multi-platform streaming aggregator with decentralized magnet indexing, smart watchlists, and zero-config instant playback.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

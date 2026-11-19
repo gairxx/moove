@@ -1,0 +1,18 @@
+{
+  "heroMediaId": "auto",
+  "tvmazeFeedEnabled": true,
+  "internetArchiveSearchEnabled": true,
+  "openCinemaCatalogEnabled": true,
+  "maxResolutionCap": "2160p",
+  "bandwidthHeadroomFactor": 0.85,
+  "preferWebReadyStreams": true,
+  "p2pMaxConnections": 55,
+  "hiddenMediaIds": [],
+  "customItems": [],
+  "customTrackers": [
+    "udp://tracker.opentrackr.org:1337/announce",
+    "udp://open.stealth.si:80/announce",
+    "udp://tracker.torrent.eu.org:451/announce",
+    "wss://tracker.openwebtorrent.com"
+  ]
+}
